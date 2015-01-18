@@ -4,7 +4,10 @@ Quick Git and Git Flow Reference
 Git Commands
 --------
 
-TODO
+**git remote prune origin**
+
+[Git Cheat Sheet PDF](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+[Interactive Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
 
 Git Flow Commands
 ------------
@@ -55,5 +58,6 @@ TODO
 
 References
 -------
-git-flow - https://github.com/nvie/gitflow
-Vincent Driessen - http://nvie.com/posts/a-successful-git-branching-model/
+Git - [Git Documentation](http://git-scm.com/docs)
+git-flow - [GitHub Repository](https://github.com/nvie/gitflow)
+Vincent Driessen - [Successful Git Branching Model Blog Post](http://nvie.com/posts/a-successful-git-branching-model/)
