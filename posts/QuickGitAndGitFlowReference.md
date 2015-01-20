@@ -6,8 +6,10 @@ Git Commands
 
 **git remote prune origin**
 
-[Git Cheat Sheet PDF](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
-[Interactive Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
+References
+-------
+Git Commands - [Git Cheat Sheet PDF](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+Git Command Interactions - [Interactive Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
 
 Git Flow Commands
 ------------
