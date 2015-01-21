@@ -10,3 +10,4 @@ Article List
 4. Nginx SSL Optimization (In Draft)
 5. Ember Component for Google Maps (In Draft)
 6. GitHub - Keep Fork Updated (Published January 19th, 2015)
+7. Ghost.js - Upstart Configuration (Published January 20th, 2015)
