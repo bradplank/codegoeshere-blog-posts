@@ -9,7 +9,7 @@ Making Ghost.js production ready on a web server is extremely simple.  This post
 
 Here is a really simple example of creating an upstart configuration for Ghost to keep the app service (Node.js / Express) running even if the app service crashes or the server is rebooted [*/etc/init/ghost.conf*]:
 
-```
+```shell
 #!upstart
 description "upstart script for a production Ghost.js server"
 
