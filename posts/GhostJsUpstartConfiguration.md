@@ -29,13 +29,9 @@ end script
 
 The above upstart configuration accomplishes the following to make the Ghost.js app service production ready:
 
-* Ghost.js should be started after boot without user interaction
-`start on startup`
-* Hardening the server by starting Ghost.js as the 'ghost' user
-`su -l ghost -c '<forever_command>'`
-* Continuous uptime
-`forever start [options] <script>`
-
+* Ghost.js should be started after boot without user interaction, `start on startup`
+* Hardening the server by starting Ghost.js as the 'ghost' user, `su -l ghost -c '<forever_command>'`
+* Continuous uptime,  `forever start [options] <script>`
 
 After saving the upstart configuration [/etc/init/ghost.conf], it is time to test your hard work:
 
