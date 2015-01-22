@@ -4,7 +4,23 @@ Quick Git and Git Flow Reference
 Git Commands
 --------
 
+List all branches (local and remote):
+**git branch -a**
+
+Clean remote branch list:
 **git remote prune origin**
+
+Annotated tag:
+**git tag -a v1.7 -m 'version v1.7'**
+
+Share tag:
+**git push origin v1.7**
+
+Delete local branch:
+**git branch -d feature/branchName**
+
+Delete remote branch:
+**git push oriting --delete feature/branchName**
 
 References
 -------
