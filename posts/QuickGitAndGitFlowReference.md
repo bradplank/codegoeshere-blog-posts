@@ -22,6 +22,9 @@ Delete local branch:
 Delete remote branch:
 **git push oriting --delete feature/branchName**
 
+Checkout a remote tag with a local tracking branch:
+**git checkout -b v2.2.0 v2.2.0**
+
 References
 -------
 Git Commands - [Git Cheat Sheet PDF](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
