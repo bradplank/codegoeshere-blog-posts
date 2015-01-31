@@ -60,8 +60,10 @@ server {
 }
 ```
 
-http://spdycheck.org/
-https://www.ssllabs.com/ssltest/
+References
+----------
 
-https://www.mare-system.de/guide-to-nginx-ssl-spdy-hsts/
+* [SPDYCheck.org](http://spdycheck.org/) - Check if website supports the SPDY protocol.
+* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) - Deep analysis of SSL website security.
 
+* [Guide to Nginx + SSL + SPDY by MARE system](https://www.mare-system.de/guide-to-nginx-ssl-spdy-hsts/)

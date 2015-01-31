@@ -27,6 +27,7 @@ Checkout a remote tag with a local tracking branch:
 
 References
 -------
+
 Git Commands - [Git Cheat Sheet PDF](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 Git Command Interactions - [Interactive Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
 
