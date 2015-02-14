@@ -1,4 +1,4 @@
-REST Services (Performance vs Readability vs Rapid Development)
+REST Service Utilities (Performance vs Readability vs Rapid Development)
 ===============================================================
 
 We often choose JavaScript libraries to improve our code's performance, readability, and reduce development time.  However, how often do we consider the effects of our choices.  After using the [Async](https://github.com/caolan/async) library to create REST micro services, concerns of performance and readability interest me.  Express and Async together provide the necessary tools to quickly produce REST end points, however, what was the cost of rapid development.
